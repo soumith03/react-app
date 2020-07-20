@@ -1,9 +1,9 @@
-const DISHES =
+ const DISHES =
     [
         {
         id: 0,
         name:'Uthappizza',
-        image: 'assets/images/uthappizza.png',
+        image: './assets/images/uthappizza.png',
         category: 'mains',
         label:'Hot',
         price:'4.99',
@@ -185,4 +185,4 @@ const DISHES =
         }
     ];
 
-export default DISHES
+    export default DISHES;
